@@ -1,0 +1,46 @@
+body {
+	font-family: 'Handlee', cursive;
+	width: 700px;
+}
+
+div.header {
+	width: 400px;
+	float: right;
+	position: relative;
+}
+
+div.logo4geeks {
+	position: absolute;
+	left: 300px;
+	top: -15px;
+}
+
+.textBox {
+	position: relative;
+	top: 70px;
+	border-bottom: 1px solid black;
+	font-size: x-large;
+	color: grey;
+}
+
+.sendPostcard-btn {
+    padding: 6px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	font-size: x-large;
+	color: black;
+	background: rgba(128, 128, 128, 0.664);
+	border: 1px solid;
+	border-color: #aaa #aaa #000 #aaa;
+}
+
+a.sendPostcard-btn {
+	margin-left: 200px;
+	margin-right: auto;
+}
+
+.message {
+	width: 300px;
+	font-size: x-large;
+}
